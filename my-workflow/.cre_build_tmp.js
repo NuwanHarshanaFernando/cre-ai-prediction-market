@@ -6692,6 +6692,26 @@ var Mode;
   Mode2[Mode2["NODE"] = 2] = "NODE";
 })(Mode || (Mode = {}));
 var file_tools_generator_v1alpha_cre_metadata = /* @__PURE__ */ fileDesc("Cip0b29scy9nZW5lcmF0b3IvdjFhbHBoYS9jcmVfbWV0YWRhdGEucHJvdG8SF3Rvb2xzLmdlbmVyYXRvci52MWFscGhhIoQBCgtTdHJpbmdMYWJlbBJECghkZWZhdWx0cxgBIAMoCzIyLnRvb2xzLmdlbmVyYXRvci52MWFscGhhLlN0cmluZ0xhYmVsLkRlZmF1bHRzRW50cnkaLwoNRGVmYXVsdHNFbnRyeRILCgNrZXkYASABKAkSDQoFdmFsdWUYAiABKAk6AjgBIogBCgtVaW50NjRMYWJlbBJECghkZWZhdWx0cxgBIAMoCzIyLnRvb2xzLmdlbmVyYXRvci52MWFscGhhLlVpbnQ2NExhYmVsLkRlZmF1bHRzRW50cnkaMwoNRGVmYXVsdHNFbnRyeRILCgNrZXkYASABKAkSEQoFdmFsdWUYAiABKARCAjAAOgI4ASKEAQoLVWludDMyTGFiZWwSRAoIZGVmYXVsdHMYASADKAsyMi50b29scy5nZW5lcmF0b3IudjFhbHBoYS5VaW50MzJMYWJlbC5EZWZhdWx0c0VudHJ5Gi8KDURlZmF1bHRzRW50cnkSCwoDa2V5GAEgASgJEg0KBXZhbHVlGAIgASgNOgI4ASKGAQoKSW50NjRMYWJlbBJDCghkZWZhdWx0cxgBIAMoCzIxLnRvb2xzLmdlbmVyYXRvci52MWFscGhhLkludDY0TGFiZWwuRGVmYXVsdHNFbnRyeRozCg1EZWZhdWx0c0VudHJ5EgsKA2tleRgBIAEoCRIRCgV2YWx1ZRgCIAEoA0ICMAA6AjgBIoIBCgpJbnQzMkxhYmVsEkMKCGRlZmF1bHRzGAEgAygLMjEudG9vbHMuZ2VuZXJhdG9yLnYxYWxwaGEuSW50MzJMYWJlbC5EZWZhdWx0c0VudHJ5Gi8KDURlZmF1bHRzRW50cnkSCwoDa2V5GAEgASgJEg0KBXZhbHVlGAIgASgFOgI4ASLBAgoFTGFiZWwSPAoMc3RyaW5nX2xhYmVsGAEgASgLMiQudG9vbHMuZ2VuZXJhdG9yLnYxYWxwaGEuU3RyaW5nTGFiZWxIABI8Cgx1aW50NjRfbGFiZWwYAiABKAsyJC50b29scy5nZW5lcmF0b3IudjFhbHBoYS5VaW50NjRMYWJlbEgAEjoKC2ludDY0X2xhYmVsGAMgASgLMiMudG9vbHMuZ2VuZXJhdG9yLnYxYWxwaGEuSW50NjRMYWJlbEgAEjwKDHVpbnQzMl9sYWJlbBgEIAEoCzIkLnRvb2xzLmdlbmVyYXRvci52MWFscGhhLlVpbnQzMkxhYmVsSAASOgoLaW50MzJfbGFiZWwYBSABKAsyIy50b29scy5nZW5lcmF0b3IudjFhbHBoYS5JbnQzMkxhYmVsSABCBgoEa2luZCLkAQoSQ2FwYWJpbGl0eU1ldGFkYXRhEh8KBG1vZGUYASABKA4yES5zZGsudjFhbHBoYS5Nb2RlEhUKDWNhcGFiaWxpdHlfaWQYAiABKAkSRwoGbGFiZWxzGAMgAygLMjcudG9vbHMuZ2VuZXJhdG9yLnYxYWxwaGEuQ2FwYWJpbGl0eU1ldGFkYXRhLkxhYmVsc0VudHJ5Gk0KC0xhYmVsc0VudHJ5EgsKA2tleRgBIAEoCRItCgV2YWx1ZRgCIAEoCzIeLnRvb2xzLmdlbmVyYXRvci52MWFscGhhLkxhYmVsOgI4ASI2ChhDYXBhYmlsaXR5TWV0aG9kTWV0YWRhdGESGgoSbWFwX3RvX3VudHlwZWRfYXBpGAEgASgIOm4KCmNhcGFiaWxpdHkSHy5nb29nbGUucHJvdG9idWYuU2VydmljZU9wdGlvbnMY0IYDIAEoCzIrLnRvb2xzLmdlbmVyYXRvci52MWFscGhhLkNhcGFiaWxpdHlNZXRhZGF0YVIKY2FwYWJpbGl0eTprCgZtZXRob2QSHi5nb29nbGUucHJvdG9idWYuTWV0aG9kT3B0aW9ucxjRhgMgASgLMjEudG9vbHMuZ2VuZXJhdG9yLnYxYWxwaGEuQ2FwYWJpbGl0eU1ldGhvZE1ldGFkYXRhUgZtZXRob2RCrwEKG2NvbS50b29scy5nZW5lcmF0b3IudjFhbHBoYUIQQ3JlTWV0YWRhdGFQcm90b1ABogIDVEdYqgIXVG9vbHMuR2VuZXJhdG9yLlYxYWxwaGHKAhhUb29sc1xHZW5lcmF0b3JfXFYxYWxwaGHiAiRUb29sc1xHZW5lcmF0b3JfXFYxYWxwaGFcR1BCTWV0YWRhdGHqAhlUb29sczo6R2VuZXJhdG9yOjpWMWFscGhhYgZwcm90bzM", [file_google_protobuf_descriptor, file_sdk_v1alpha_sdk]);
+var file_capabilities_blockchain_evm_v1alpha_client = /* @__PURE__ */ fileDesc("CjBjYXBhYmlsaXRpZXMvYmxvY2tjaGFpbi9ldm0vdjFhbHBoYS9jbGllbnQucHJvdG8SI2NhcGFiaWxpdGllcy5ibG9ja2NoYWluLmV2bS52MWFscGhhIh0KC1RvcGljVmFsdWVzEg4KBnZhbHVlcxgBIAMoDCK4AQoXRmlsdGVyTG9nVHJpZ2dlclJlcXVlc3QSEQoJYWRkcmVzc2VzGAEgAygMEkAKBnRvcGljcxgCIAMoCzIwLmNhcGFiaWxpdGllcy5ibG9ja2NoYWluLmV2bS52MWFscGhhLlRvcGljVmFsdWVzEkgKCmNvbmZpZGVuY2UYAyABKA4yNC5jYXBhYmlsaXRpZXMuYmxvY2tjaGFpbi5ldm0udjFhbHBoYS5Db25maWRlbmNlTGV2ZWwiegoTQ2FsbENvbnRyYWN0UmVxdWVzdBI6CgRjYWxsGAEgASgLMiwuY2FwYWJpbGl0aWVzLmJsb2NrY2hhaW4uZXZtLnYxYWxwaGEuQ2FsbE1zZxInCgxibG9ja19udW1iZXIYAiABKAsyES52YWx1ZXMudjEuQmlnSW50IiEKEUNhbGxDb250cmFjdFJlcGx5EgwKBGRhdGEYASABKAwiWwoRRmlsdGVyTG9nc1JlcXVlc3QSRgoMZmlsdGVyX3F1ZXJ5GAEgASgLMjAuY2FwYWJpbGl0aWVzLmJsb2NrY2hhaW4uZXZtLnYxYWxwaGEuRmlsdGVyUXVlcnkiSQoPRmlsdGVyTG9nc1JlcGx5EjYKBGxvZ3MYASADKAsyKC5jYXBhYmlsaXRpZXMuYmxvY2tjaGFpbi5ldm0udjFhbHBoYS5Mb2cixwEKA0xvZxIPCgdhZGRyZXNzGAEgASgMEg4KBnRvcGljcxgCIAMoDBIPCgd0eF9oYXNoGAMgASgMEhIKCmJsb2NrX2hhc2gYBCABKAwSDAoEZGF0YRgFIAEoDBIRCglldmVudF9zaWcYBiABKAwSJwoMYmxvY2tfbnVtYmVyGAcgASgLMhEudmFsdWVzLnYxLkJpZ0ludBIQCgh0eF9pbmRleBgIIAEoDRINCgVpbmRleBgJIAEoDRIPCgdyZW1vdmVkGAogASgIIjEKB0NhbGxNc2cSDAoEZnJvbRgBIAEoDBIKCgJ0bxgCIAEoDBIMCgRkYXRhGAMgASgMIr0BCgtGaWx0ZXJRdWVyeRISCgpibG9ja19oYXNoGAEgASgMEiUKCmZyb21fYmxvY2sYAiABKAsyES52YWx1ZXMudjEuQmlnSW50EiMKCHRvX2Jsb2NrGAMgASgLMhEudmFsdWVzLnYxLkJpZ0ludBIRCglhZGRyZXNzZXMYBCADKAwSOwoGdG9waWNzGAUgAygLMisuY2FwYWJpbGl0aWVzLmJsb2NrY2hhaW4uZXZtLnYxYWxwaGEuVG9waWNzIhcKBlRvcGljcxINCgV0b3BpYxgBIAMoDCJMChBCYWxhbmNlQXRSZXF1ZXN0Eg8KB2FjY291bnQYASABKAwSJwoMYmxvY2tfbnVtYmVyGAIgASgLMhEudmFsdWVzLnYxLkJpZ0ludCI0Cg5CYWxhbmNlQXRSZXBseRIiCgdiYWxhbmNlGAEgASgLMhEudmFsdWVzLnYxLkJpZ0ludCJPChJFc3RpbWF0ZUdhc1JlcXVlc3QSOQoDbXNnGAEgASgLMiwuY2FwYWJpbGl0aWVzLmJsb2NrY2hhaW4uZXZtLnYxYWxwaGEuQ2FsbE1zZyIjChBFc3RpbWF0ZUdhc1JlcGx5Eg8KA2dhcxgBIAEoBEICMAAiKwobR2V0VHJhbnNhY3Rpb25CeUhhc2hSZXF1ZXN0EgwKBGhhc2gYASABKAwiYgoZR2V0VHJhbnNhY3Rpb25CeUhhc2hSZXBseRJFCgt0cmFuc2FjdGlvbhgBIAEoCzIwLmNhcGFiaWxpdGllcy5ibG9ja2NoYWluLmV2bS52MWFscGhhLlRyYW5zYWN0aW9uIqEBCgtUcmFuc2FjdGlvbhIRCgVub25jZRgBIAEoBEICMAASDwoDZ2FzGAIgASgEQgIwABIKCgJ0bxgDIAEoDBIMCgRkYXRhGAQgASgMEgwKBGhhc2gYBSABKAwSIAoFdmFsdWUYBiABKAsyES52YWx1ZXMudjEuQmlnSW50EiQKCWdhc19wcmljZRgHIAEoCzIRLnZhbHVlcy52MS5CaWdJbnQiLAocR2V0VHJhbnNhY3Rpb25SZWNlaXB0UmVxdWVzdBIMCgRoYXNoGAEgASgMIlsKGkdldFRyYW5zYWN0aW9uUmVjZWlwdFJlcGx5Ej0KB3JlY2VpcHQYASABKAsyLC5jYXBhYmlsaXRpZXMuYmxvY2tjaGFpbi5ldm0udjFhbHBoYS5SZWNlaXB0IpkCCgdSZWNlaXB0EhIKBnN0YXR1cxgBIAEoBEICMAASFAoIZ2FzX3VzZWQYAiABKARCAjAAEhQKCHR4X2luZGV4GAMgASgEQgIwABISCgpibG9ja19oYXNoGAQgASgMEjYKBGxvZ3MYBiADKAsyKC5jYXBhYmlsaXRpZXMuYmxvY2tjaGFpbi5ldm0udjFhbHBoYS5Mb2cSDwoHdHhfaGFzaBgHIAEoDBIuChNlZmZlY3RpdmVfZ2FzX3ByaWNlGAggASgLMhEudmFsdWVzLnYxLkJpZ0ludBInCgxibG9ja19udW1iZXIYCSABKAsyES52YWx1ZXMudjEuQmlnSW50EhgKEGNvbnRyYWN0X2FkZHJlc3MYCiABKAwiQAoVSGVhZGVyQnlOdW1iZXJSZXF1ZXN0EicKDGJsb2NrX251bWJlchgBIAEoCzIRLnZhbHVlcy52MS5CaWdJbnQiUgoTSGVhZGVyQnlOdW1iZXJSZXBseRI7CgZoZWFkZXIYASABKAsyKy5jYXBhYmlsaXRpZXMuYmxvY2tjaGFpbi5ldm0udjFhbHBoYS5IZWFkZXIiawoGSGVhZGVyEhUKCXRpbWVzdGFtcBgBIAEoBEICMAASJwoMYmxvY2tfbnVtYmVyGAIgASgLMhEudmFsdWVzLnYxLkJpZ0ludBIMCgRoYXNoGAMgASgMEhMKC3BhcmVudF9oYXNoGAQgASgMIqsBChJXcml0ZVJlcG9ydFJlcXVlc3QSEAoIcmVjZWl2ZXIYASABKAwSKwoGcmVwb3J0GAIgASgLMhsuc2RrLnYxYWxwaGEuUmVwb3J0UmVzcG9uc2USRwoKZ2FzX2NvbmZpZxgDIAEoCzIuLmNhcGFiaWxpdGllcy5ibG9ja2NoYWluLmV2bS52MWFscGhhLkdhc0NvbmZpZ0gAiAEBQg0KC19nYXNfY29uZmlnIiIKCUdhc0NvbmZpZxIVCglnYXNfbGltaXQYASABKARCAjAAIocDChBXcml0ZVJlcG9ydFJlcGx5EkAKCXR4X3N0YXR1cxgBIAEoDjItLmNhcGFiaWxpdGllcy5ibG9ja2NoYWluLmV2bS52MWFscGhhLlR4U3RhdHVzEnUKInJlY2VpdmVyX2NvbnRyYWN0X2V4ZWN1dGlvbl9zdGF0dXMYAiABKA4yRC5jYXBhYmlsaXRpZXMuYmxvY2tjaGFpbi5ldm0udjFhbHBoYS5SZWNlaXZlckNvbnRyYWN0RXhlY3V0aW9uU3RhdHVzSACIAQESFAoHdHhfaGFzaBgDIAEoDEgBiAEBEi8KD3RyYW5zYWN0aW9uX2ZlZRgEIAEoCzIRLnZhbHVlcy52MS5CaWdJbnRIAogBARIaCg1lcnJvcl9tZXNzYWdlGAUgASgJSAOIAQFCJQojX3JlY2VpdmVyX2NvbnRyYWN0X2V4ZWN1dGlvbl9zdGF0dXNCCgoIX3R4X2hhc2hCEgoQX3RyYW5zYWN0aW9uX2ZlZUIQCg5fZXJyb3JfbWVzc2FnZSppCg9Db25maWRlbmNlTGV2ZWwSGQoVQ09ORklERU5DRV9MRVZFTF9TQUZFEAASGwoXQ09ORklERU5DRV9MRVZFTF9MQVRFU1QQARIeChpDT05GSURFTkNFX0xFVkVMX0ZJTkFMSVpFRBACKoIBCh9SZWNlaXZlckNvbnRyYWN0RXhlY3V0aW9uU3RhdHVzEi4KKlJFQ0VJVkVSX0NPTlRSQUNUX0VYRUNVVElPTl9TVEFUVVNfU1VDQ0VTUxAAEi8KK1JFQ0VJVkVSX0NPTlRSQUNUX0VYRUNVVElPTl9TVEFUVVNfUkVWRVJURUQQASpOCghUeFN0YXR1cxITCg9UWF9TVEFUVVNfRkFUQUwQABIWChJUWF9TVEFUVVNfUkVWRVJURUQQARIVChFUWF9TVEFUVVNfU1VDQ0VTUxACMsMZCgZDbGllbnQSgAEKDENhbGxDb250cmFjdBI4LmNhcGFiaWxpdGllcy5ibG9ja2NoYWluLmV2bS52MWFscGhhLkNhbGxDb250cmFjdFJlcXVlc3QaNi5jYXBhYmlsaXRpZXMuYmxvY2tjaGFpbi5ldm0udjFhbHBoYS5DYWxsQ29udHJhY3RSZXBseRJ6CgpGaWx0ZXJMb2dzEjYuY2FwYWJpbGl0aWVzLmJsb2NrY2hhaW4uZXZtLnYxYWxwaGEuRmlsdGVyTG9nc1JlcXVlc3QaNC5jYXBhYmlsaXRpZXMuYmxvY2tjaGFpbi5ldm0udjFhbHBoYS5GaWx0ZXJMb2dzUmVwbHkSdwoJQmFsYW5jZUF0EjUuY2FwYWJpbGl0aWVzLmJsb2NrY2hhaW4uZXZtLnYxYWxwaGEuQmFsYW5jZUF0UmVxdWVzdBozLmNhcGFiaWxpdGllcy5ibG9ja2NoYWluLmV2bS52MWFscGhhLkJhbGFuY2VBdFJlcGx5En0KC0VzdGltYXRlR2FzEjcuY2FwYWJpbGl0aWVzLmJsb2NrY2hhaW4uZXZtLnYxYWxwaGEuRXN0aW1hdGVHYXNSZXF1ZXN0GjUuY2FwYWJpbGl0aWVzLmJsb2NrY2hhaW4uZXZtLnYxYWxwaGEuRXN0aW1hdGVHYXNSZXBseRKYAQoUR2V0VHJhbnNhY3Rpb25CeUhhc2gSQC5jYXBhYmlsaXRpZXMuYmxvY2tjaGFpbi5ldm0udjFhbHBoYS5HZXRUcmFuc2FjdGlvbkJ5SGFzaFJlcXVlc3QaPi5jYXBhYmlsaXRpZXMuYmxvY2tjaGFpbi5ldm0udjFhbHBoYS5HZXRUcmFuc2FjdGlvbkJ5SGFzaFJlcGx5EpsBChVHZXRUcmFuc2FjdGlvblJlY2VpcHQSQS5jYXBhYmlsaXRpZXMuYmxvY2tjaGFpbi5ldm0udjFhbHBoYS5HZXRUcmFuc2FjdGlvblJlY2VpcHRSZXF1ZXN0Gj8uY2FwYWJpbGl0aWVzLmJsb2NrY2hhaW4uZXZtLnYxYWxwaGEuR2V0VHJhbnNhY3Rpb25SZWNlaXB0UmVwbHkShgEKDkhlYWRlckJ5TnVtYmVyEjouY2FwYWJpbGl0aWVzLmJsb2NrY2hhaW4uZXZtLnYxYWxwaGEuSGVhZGVyQnlOdW1iZXJSZXF1ZXN0GjguY2FwYWJpbGl0aWVzLmJsb2NrY2hhaW4uZXZtLnYxYWxwaGEuSGVhZGVyQnlOdW1iZXJSZXBseRJ2CgpMb2dUcmlnZ2VyEjwuY2FwYWJpbGl0aWVzLmJsb2NrY2hhaW4uZXZtLnYxYWxwaGEuRmlsdGVyTG9nVHJpZ2dlclJlcXVlc3QaKC5jYXBhYmlsaXRpZXMuYmxvY2tjaGFpbi5ldm0udjFhbHBoYS5Mb2cwARJ9CgtXcml0ZVJlcG9ydBI3LmNhcGFiaWxpdGllcy5ibG9ja2NoYWluLmV2bS52MWFscGhhLldyaXRlUmVwb3J0UmVxdWVzdBo1LmNhcGFiaWxpdGllcy5ibG9ja2NoYWluLmV2bS52MWFscGhhLldyaXRlUmVwb3J0UmVwbHkaiBCCtRiDEAgBEglldm1AMS4wLjAa8w8KDUNoYWluU2VsZWN0b3IS4Q8S3g8KFwoLYWRpLW1haW5uZXQQ/PDmwrfn3ao4ChgKC2FkaS10ZXN0bmV0EP2myPr5hozaggEKJAoXYXBlY2hhaW4tdGVzdG5ldC1jdXJ0aXMQwcO0+I3EkrKJAQoXCgthcmMtdGVzdG5ldBDnxoye19fQjSoKHQoRYXZhbGFuY2hlLW1haW5uZXQQ1eeKwOHVmKRZCiMKFmF2YWxhbmNoZS10ZXN0bmV0LWZ1amkQm/n8kKLjqPjMAQooChtiaW5hbmNlX3NtYXJ0X2NoYWluLW1haW5uZXQQz/eU8djtlbidAQooChtiaW5hbmNlX3NtYXJ0X2NoYWluLXRlc3RuZXQQ+62+nICu5Iq4AQoYCgxjZWxvLW1haW5uZXQQhtTo2IaTiNcSChgKDGNlbG8tc2Vwb2xpYRDEw/yL/OedmjQKGgoOY3Jvbm9zLXRlc3RuZXQQ/dnureDe2sgpCiIKFWR0Y2MtdGVzdG5ldC1hbmRlc2l0ZRDSg+PQmZblpNcBChwKEGV0aGVyZXVtLW1haW5uZXQQlfbx5M+ypsJFCicKG2V0aGVyZXVtLW1haW5uZXQtYXJiaXRydW0tMRDE6I3Njpuh10QKJAoXZXRoZXJldW0tbWFpbm5ldC1iYXNlLTEQgv+rov65kNPdAQoiChZldGhlcmV1bS1tYWlubmV0LWluay0xEKCwpum35qqEMAokChhldGhlcmV1bS1tYWlubmV0LWxpbmVhLTEQtrrpmMu9sJtACiUKGWV0aGVyZXVtLW1haW5uZXQtbWFudGxlLTEQiue0leewg8wVCicKG2V0aGVyZXVtLW1haW5uZXQtb3B0aW1pc20tMRC4lY/D9/7Q6TMKJgoZZXRoZXJldW0tbWFpbm5ldC1zY3JvbGwtMRC4vOTrxL7In7cBCikKHWV0aGVyZXVtLW1haW5uZXQtd29ybGRjaGFpbi0xEIfvurfFtsK4HAolChlldGhlcmV1bS1tYWlubmV0LXhsYXllci0xEJal/JymqO/tKQolChlldGhlcmV1bS1tYWlubmV0LXprc3luYy0xEJTul9nttLHXFQolChhldGhlcmV1bS10ZXN0bmV0LXNlcG9saWEQ2bXkzvzJ7qDeAQovCiNldGhlcmV1bS10ZXN0bmV0LXNlcG9saWEtYXJiaXRydW0tMRDqzu7/6raEozAKLAofZXRoZXJldW0tdGVzdG5ldC1zZXBvbGlhLWJhc2UtMRC4yrnv9pCuyI8BCiwKIGV0aGVyZXVtLXRlc3RuZXQtc2Vwb2xpYS1saW5lYS0xEOuq1P6C+eavTwotCiFldGhlcmV1bS10ZXN0bmV0LXNlcG9saWEtbWFudGxlLTEQ1ca47s328qZyCi8KI2V0aGVyZXVtLXRlc3RuZXQtc2Vwb2xpYS1vcHRpbWlzbS0xEJ+GxaG+2MPASAotCiFldGhlcmV1bS10ZXN0bmV0LXNlcG9saWEtc2Nyb2xsLTEQi+m0vtu67dEfCjAKI2V0aGVyZXVtLXRlc3RuZXQtc2Vwb2xpYS11bmljaGFpbi0xELTe/uDsl6mWxAEKMQolZXRoZXJldW0tdGVzdG5ldC1zZXBvbGlhLXdvcmxkY2hhaW4tMRC63+DFx6nzxUkKLQohZXRoZXJldW0tdGVzdG5ldC1zZXBvbGlhLXprc3luYy0xELfB/P3yxIDeXwogChRnbm9zaXNfY2hhaW4tbWFpbm5ldBD0kq3a8qKuugYKJwobZ25vc2lzX2NoYWluLXRlc3RuZXQtY2hpYWRvELOxgtCbpY+PewofChNoeXBlcmxpcXVpZC1tYWlubmV0EKez+N3O0enyIQofChNoeXBlcmxpcXVpZC10ZXN0bmV0EIjO3ciX4Mm9OwogChNpbmstdGVzdG5ldC1zZXBvbGlhEOj0p6Xz5pbAhwEKGQoNam92YXktbWFpbm5ldBC1w8SaoYDfkhUKGQoNam92YXktdGVzdG5ldBDkz4qE3rLejg0KGwoPbWVnYWV0aC1tYWlubmV0EOqVtsi85KbIVAoeChFtZWdhZXRoLXRlc3RuZXQtMhDjjd6IsY/9k/0BCiQKF3BoYXJvcy1hdGxhbnRpYy10ZXN0bmV0EMyZ7eDOvK+03wEKGgoOcGhhcm9zLW1haW5uZXQQyMGHnvXvzaFsChsKDnBsYXNtYS1tYWlubmV0EPib8dHaydXGgQEKGgoOcGxhc21hLXRlc3RuZXQQ1Zu/pcO0mYc3ChsKD3BvbHlnb24tbWFpbm5ldBCxq+TwmpKGnTgKIQoUcG9seWdvbi10ZXN0bmV0LWFtb3kQzY/W3/HHkPrhAQokChhwcml2YXRlLXRlc3RuZXQtYW5kZXNpdGUQ1KaYpcGP3PxfCiIKFnByaXZhdGUtdGVzdG5ldC1wdW1pY2UQ+cLEtsSlxNsVCiUKGXByaXZhdGUtdGVzdG5ldC1xdWFydHppdGUQ+fCi3azdh/o5CiQKGHByaXZhdGUtdGVzdG5ldC1yaHlvbGl0ZRCB+onr4bTbsQgKGQoNc29uaWMtbWFpbm5ldBDRsuXt2aCynRcKGQoNc29uaWMtdGVzdG5ldBDIiPvUtMb6vBgKGAoLdGFjLXRlc3RuZXQQ1duN4/ufk9eDAQobCg54bGF5ZXItdGVzdG5ldBDJvqG0rcy83Y0BQuUBCidjb20uY2FwYWJpbGl0aWVzLmJsb2NrY2hhaW4uZXZtLnYxYWxwaGFCC0NsaWVudFByb3RvUAGiAgNDQkWqAiNDYXBhYmlsaXRpZXMuQmxvY2tjaGFpbi5Fdm0uVjFhbHBoYcoCI0NhcGFiaWxpdGllc1xCbG9ja2NoYWluXEV2bVxWMWFscGhh4gIvQ2FwYWJpbGl0aWVzXEJsb2NrY2hhaW5cRXZtXFYxYWxwaGFcR1BCTWV0YWRhdGHqAiZDYXBhYmlsaXRpZXM6OkJsb2NrY2hhaW46OkV2bTo6VjFhbHBoYWIGcHJvdG8z", [file_sdk_v1alpha_sdk, file_tools_generator_v1alpha_cre_metadata, file_values_v1_values]);
+var FilterLogTriggerRequestSchema = /* @__PURE__ */ messageDesc(file_capabilities_blockchain_evm_v1alpha_client, 1);
+var CallContractRequestSchema = /* @__PURE__ */ messageDesc(file_capabilities_blockchain_evm_v1alpha_client, 2);
+var CallContractReplySchema = /* @__PURE__ */ messageDesc(file_capabilities_blockchain_evm_v1alpha_client, 3);
+var FilterLogsRequestSchema = /* @__PURE__ */ messageDesc(file_capabilities_blockchain_evm_v1alpha_client, 4);
+var FilterLogsReplySchema = /* @__PURE__ */ messageDesc(file_capabilities_blockchain_evm_v1alpha_client, 5);
+var LogSchema = /* @__PURE__ */ messageDesc(file_capabilities_blockchain_evm_v1alpha_client, 6);
+var BalanceAtRequestSchema = /* @__PURE__ */ messageDesc(file_capabilities_blockchain_evm_v1alpha_client, 10);
+var BalanceAtReplySchema = /* @__PURE__ */ messageDesc(file_capabilities_blockchain_evm_v1alpha_client, 11);
+var EstimateGasRequestSchema = /* @__PURE__ */ messageDesc(file_capabilities_blockchain_evm_v1alpha_client, 12);
+var EstimateGasReplySchema = /* @__PURE__ */ messageDesc(file_capabilities_blockchain_evm_v1alpha_client, 13);
+var GetTransactionByHashRequestSchema = /* @__PURE__ */ messageDesc(file_capabilities_blockchain_evm_v1alpha_client, 14);
+var GetTransactionByHashReplySchema = /* @__PURE__ */ messageDesc(file_capabilities_blockchain_evm_v1alpha_client, 15);
+var GetTransactionReceiptRequestSchema = /* @__PURE__ */ messageDesc(file_capabilities_blockchain_evm_v1alpha_client, 17);
+var GetTransactionReceiptReplySchema = /* @__PURE__ */ messageDesc(file_capabilities_blockchain_evm_v1alpha_client, 18);
+var HeaderByNumberRequestSchema = /* @__PURE__ */ messageDesc(file_capabilities_blockchain_evm_v1alpha_client, 20);
+var HeaderByNumberReplySchema = /* @__PURE__ */ messageDesc(file_capabilities_blockchain_evm_v1alpha_client, 21);
+var WriteReportRequestSchema = /* @__PURE__ */ messageDesc(file_capabilities_blockchain_evm_v1alpha_client, 23);
+var GasConfigSchema = /* @__PURE__ */ messageDesc(file_capabilities_blockchain_evm_v1alpha_client, 24);
+var WriteReportReplySchema = /* @__PURE__ */ messageDesc(file_capabilities_blockchain_evm_v1alpha_client, 25);
 var ConfidenceLevel;
 (function(ConfidenceLevel2) {
   ConfidenceLevel2[ConfidenceLevel2["SAFE"] = 0] = "SAFE";
@@ -7886,6 +7906,319 @@ class Report {
     return this.report;
   }
 }
+var hexToBytes3 = (hexStr) => {
+  if (!hexStr.startsWith("0x")) {
+    throw new Error(`Invalid hex string: ${hexStr}`);
+  }
+  if (!/^0x[0-9a-fA-F]*$/.test(hexStr)) {
+    throw new Error(`Invalid hex string: ${hexStr}`);
+  }
+  if ((hexStr.length - 2) % 2 !== 0) {
+    throw new Error(`Hex string must have an even number of characters: ${hexStr}`);
+  }
+  const hex = hexStr.slice(2);
+  const bytes = new Uint8Array(hex.length / 2);
+  for (let i = 0;i < hex.length; i += 2) {
+    bytes[i / 2] = Number.parseInt(hex.slice(i, i + 2), 16);
+  }
+  return bytes;
+};
+function createWriteCreReportRequest(input) {
+  return {
+    receiver: hexToBytes3(input.receiver),
+    report: input.report,
+    gasConfig: input.gasConfig !== undefined ? fromJson(GasConfigSchema, input.gasConfig) : undefined,
+    $report: true
+  };
+}
+function x_generatedCodeOnly_unwrap_WriteCreReportRequest(input) {
+  return create(WriteReportRequestSchema, {
+    receiver: input.receiver,
+    report: input.report !== undefined ? input.report.x_generatedCodeOnly_unwrap() : undefined,
+    gasConfig: input.gasConfig
+  });
+}
+
+class ClientCapability {
+  ChainSelector;
+  static CAPABILITY_ID = "evm@1.0.0";
+  static CAPABILITY_NAME = "evm";
+  static CAPABILITY_VERSION = "1.0.0";
+  static SUPPORTED_CHAIN_SELECTORS = {
+    "adi-mainnet": 4059281736450291836n,
+    "adi-testnet": 9418205736192840573n,
+    "apechain-testnet-curtis": 9900119385908781505n,
+    "arc-testnet": 3034092155422581607n,
+    "avalanche-mainnet": 6433500567565415381n,
+    "avalanche-testnet-fuji": 14767482510784806043n,
+    "binance_smart_chain-mainnet": 11344663589394136015n,
+    "binance_smart_chain-testnet": 13264668187771770619n,
+    "celo-mainnet": 1346049177634351622n,
+    "celo-sepolia": 3761762704474186180n,
+    "cronos-testnet": 2995292832068775165n,
+    "dtcc-testnet-andesite": 15513093881969820114n,
+    "ethereum-mainnet": 5009297550715157269n,
+    "ethereum-mainnet-arbitrum-1": 4949039107694359620n,
+    "ethereum-mainnet-base-1": 15971525489660198786n,
+    "ethereum-mainnet-ink-1": 3461204551265785888n,
+    "ethereum-mainnet-linea-1": 4627098889531055414n,
+    "ethereum-mainnet-mantle-1": 1556008542357238666n,
+    "ethereum-mainnet-optimism-1": 3734403246176062136n,
+    "ethereum-mainnet-scroll-1": 13204309965629103672n,
+    "ethereum-mainnet-worldchain-1": 2049429975587534727n,
+    "ethereum-mainnet-xlayer-1": 3016212468291539606n,
+    "ethereum-mainnet-zksync-1": 1562403441176082196n,
+    "ethereum-testnet-sepolia": 16015286601757825753n,
+    "ethereum-testnet-sepolia-arbitrum-1": 3478487238524512106n,
+    "ethereum-testnet-sepolia-base-1": 10344971235874465080n,
+    "ethereum-testnet-sepolia-linea-1": 5719461335882077547n,
+    "ethereum-testnet-sepolia-mantle-1": 8236463271206331221n,
+    "ethereum-testnet-sepolia-optimism-1": 5224473277236331295n,
+    "ethereum-testnet-sepolia-scroll-1": 2279865765895943307n,
+    "ethereum-testnet-sepolia-unichain-1": 14135854469784514356n,
+    "ethereum-testnet-sepolia-worldchain-1": 5299555114858065850n,
+    "ethereum-testnet-sepolia-zksync-1": 6898391096552792247n,
+    "gnosis_chain-mainnet": 465200170687744372n,
+    "gnosis_chain-testnet-chiado": 8871595565390010547n,
+    "hyperliquid-mainnet": 2442541497099098535n,
+    "hyperliquid-testnet": 4286062357653186312n,
+    "ink-testnet-sepolia": 9763904284804119144n,
+    "jovay-mainnet": 1523760397290643893n,
+    "jovay-testnet": 945045181441419236n,
+    "megaeth-mainnet": 6093540873831549674n,
+    "megaeth-testnet-2": 18241817625092392675n,
+    "pharos-atlantic-testnet": 16098325658947243212n,
+    "pharos-mainnet": 7801139999541420232n,
+    "plasma-mainnet": 9335212494177455608n,
+    "plasma-testnet": 3967220077692964309n,
+    "polygon-mainnet": 4051577828743386545n,
+    "polygon-testnet-amoy": 16281711391670634445n,
+    "private-testnet-andesite": 6915682381028791124n,
+    "private-testnet-pumice": 1564738277398880633n,
+    "private-testnet-quartzite": 4175996748267305081n,
+    "private-testnet-rhyolite": 604447335222770945n,
+    "sonic-mainnet": 1673871237479749969n,
+    "sonic-testnet": 1763698235108410440n,
+    "tac-testnet": 9488606126177218005n,
+    "xlayer-testnet": 10212741611335999305n
+  };
+  constructor(ChainSelector) {
+    this.ChainSelector = ChainSelector;
+  }
+  callContract(runtime, input) {
+    let payload;
+    if (input.$typeName) {
+      payload = input;
+    } else {
+      payload = fromJson(CallContractRequestSchema, input);
+    }
+    const capabilityId = `${ClientCapability.CAPABILITY_NAME}:ChainSelector:${this.ChainSelector}@${ClientCapability.CAPABILITY_VERSION}`;
+    const capabilityResponse = runtime.callCapability({
+      capabilityId,
+      method: "CallContract",
+      payload,
+      inputSchema: CallContractRequestSchema,
+      outputSchema: CallContractReplySchema
+    });
+    return {
+      result: () => {
+        const result = capabilityResponse.result();
+        return result;
+      }
+    };
+  }
+  filterLogs(runtime, input) {
+    let payload;
+    if (input.$typeName) {
+      payload = input;
+    } else {
+      payload = fromJson(FilterLogsRequestSchema, input);
+    }
+    const capabilityId = `${ClientCapability.CAPABILITY_NAME}:ChainSelector:${this.ChainSelector}@${ClientCapability.CAPABILITY_VERSION}`;
+    const capabilityResponse = runtime.callCapability({
+      capabilityId,
+      method: "FilterLogs",
+      payload,
+      inputSchema: FilterLogsRequestSchema,
+      outputSchema: FilterLogsReplySchema
+    });
+    return {
+      result: () => {
+        const result = capabilityResponse.result();
+        return result;
+      }
+    };
+  }
+  balanceAt(runtime, input) {
+    let payload;
+    if (input.$typeName) {
+      payload = input;
+    } else {
+      payload = fromJson(BalanceAtRequestSchema, input);
+    }
+    const capabilityId = `${ClientCapability.CAPABILITY_NAME}:ChainSelector:${this.ChainSelector}@${ClientCapability.CAPABILITY_VERSION}`;
+    const capabilityResponse = runtime.callCapability({
+      capabilityId,
+      method: "BalanceAt",
+      payload,
+      inputSchema: BalanceAtRequestSchema,
+      outputSchema: BalanceAtReplySchema
+    });
+    return {
+      result: () => {
+        const result = capabilityResponse.result();
+        return result;
+      }
+    };
+  }
+  estimateGas(runtime, input) {
+    let payload;
+    if (input.$typeName) {
+      payload = input;
+    } else {
+      payload = fromJson(EstimateGasRequestSchema, input);
+    }
+    const capabilityId = `${ClientCapability.CAPABILITY_NAME}:ChainSelector:${this.ChainSelector}@${ClientCapability.CAPABILITY_VERSION}`;
+    const capabilityResponse = runtime.callCapability({
+      capabilityId,
+      method: "EstimateGas",
+      payload,
+      inputSchema: EstimateGasRequestSchema,
+      outputSchema: EstimateGasReplySchema
+    });
+    return {
+      result: () => {
+        const result = capabilityResponse.result();
+        return result;
+      }
+    };
+  }
+  getTransactionByHash(runtime, input) {
+    let payload;
+    if (input.$typeName) {
+      payload = input;
+    } else {
+      payload = fromJson(GetTransactionByHashRequestSchema, input);
+    }
+    const capabilityId = `${ClientCapability.CAPABILITY_NAME}:ChainSelector:${this.ChainSelector}@${ClientCapability.CAPABILITY_VERSION}`;
+    const capabilityResponse = runtime.callCapability({
+      capabilityId,
+      method: "GetTransactionByHash",
+      payload,
+      inputSchema: GetTransactionByHashRequestSchema,
+      outputSchema: GetTransactionByHashReplySchema
+    });
+    return {
+      result: () => {
+        const result = capabilityResponse.result();
+        return result;
+      }
+    };
+  }
+  getTransactionReceipt(runtime, input) {
+    let payload;
+    if (input.$typeName) {
+      payload = input;
+    } else {
+      payload = fromJson(GetTransactionReceiptRequestSchema, input);
+    }
+    const capabilityId = `${ClientCapability.CAPABILITY_NAME}:ChainSelector:${this.ChainSelector}@${ClientCapability.CAPABILITY_VERSION}`;
+    const capabilityResponse = runtime.callCapability({
+      capabilityId,
+      method: "GetTransactionReceipt",
+      payload,
+      inputSchema: GetTransactionReceiptRequestSchema,
+      outputSchema: GetTransactionReceiptReplySchema
+    });
+    return {
+      result: () => {
+        const result = capabilityResponse.result();
+        return result;
+      }
+    };
+  }
+  headerByNumber(runtime, input) {
+    let payload;
+    if (input.$typeName) {
+      payload = input;
+    } else {
+      payload = fromJson(HeaderByNumberRequestSchema, input);
+    }
+    const capabilityId = `${ClientCapability.CAPABILITY_NAME}:ChainSelector:${this.ChainSelector}@${ClientCapability.CAPABILITY_VERSION}`;
+    const capabilityResponse = runtime.callCapability({
+      capabilityId,
+      method: "HeaderByNumber",
+      payload,
+      inputSchema: HeaderByNumberRequestSchema,
+      outputSchema: HeaderByNumberReplySchema
+    });
+    return {
+      result: () => {
+        const result = capabilityResponse.result();
+        return result;
+      }
+    };
+  }
+  logTrigger(config) {
+    const capabilityId = `${ClientCapability.CAPABILITY_NAME}:ChainSelector:${this.ChainSelector}@${ClientCapability.CAPABILITY_VERSION}`;
+    return new ClientLogTrigger(config, capabilityId, "LogTrigger", this.ChainSelector);
+  }
+  writeReport(runtime, input) {
+    let payload;
+    if (input.$report) {
+      payload = x_generatedCodeOnly_unwrap_WriteCreReportRequest(input);
+    } else {
+      payload = x_generatedCodeOnly_unwrap_WriteCreReportRequest(createWriteCreReportRequest(input));
+    }
+    const capabilityId = `${ClientCapability.CAPABILITY_NAME}:ChainSelector:${this.ChainSelector}@${ClientCapability.CAPABILITY_VERSION}`;
+    const capabilityResponse = runtime.callCapability({
+      capabilityId,
+      method: "WriteReport",
+      payload,
+      inputSchema: WriteReportRequestSchema,
+      outputSchema: WriteReportReplySchema
+    });
+    return {
+      result: () => {
+        const result = capabilityResponse.result();
+        return result;
+      }
+    };
+  }
+}
+
+class ClientLogTrigger {
+  _capabilityId;
+  _method;
+  ChainSelector;
+  config;
+  constructor(config, _capabilityId, _method, ChainSelector) {
+    this._capabilityId = _capabilityId;
+    this._method = _method;
+    this.ChainSelector = ChainSelector;
+    this.config = config.$typeName ? config : fromJson(FilterLogTriggerRequestSchema, config);
+  }
+  capabilityId() {
+    return this._capabilityId;
+  }
+  method() {
+    return this._method;
+  }
+  outputSchema() {
+    return LogSchema;
+  }
+  configAsAny() {
+    return anyPack(FilterLogTriggerRequestSchema, this.config);
+  }
+  adapt(rawOutput) {
+    return rawOutput;
+  }
+}
+var file_capabilities_blockchain_solana_v1alpha_client = /* @__PURE__ */ fileDesc("CjNjYXBhYmlsaXRpZXMvYmxvY2tjaGFpbi9zb2xhbmEvdjFhbHBoYS9jbGllbnQucHJvdG8SJmNhcGFiaWxpdGllcy5ibG9ja2NoYWluLnNvbGFuYS52MWFscGhhIiYKDUNvbXB1dGVDb25maWcSFQoNY29tcHV0ZV9saW1pdBgBIAEoDSI2CgtBY2NvdW50TWV0YRISCgpwdWJsaWNfa2V5GAEgASgMEhMKC2lzX3dyaXRhYmxlGAIgASgIIosCChJXcml0ZVJlcG9ydFJlcXVlc3QSTwoScmVtYWluaW5nX2FjY291bnRzGAEgAygLMjMuY2FwYWJpbGl0aWVzLmJsb2NrY2hhaW4uc29sYW5hLnYxYWxwaGEuQWNjb3VudE1ldGESEAoIcmVjZWl2ZXIYAiABKAwSUgoOY29tcHV0ZV9jb25maWcYAyABKAsyNS5jYXBhYmlsaXRpZXMuYmxvY2tjaGFpbi5zb2xhbmEudjFhbHBoYS5Db21wdXRlQ29uZmlnSACIAQESKwoGcmVwb3J0GAQgASgLMhsuc2RrLnYxYWxwaGEuUmVwb3J0UmVzcG9uc2VCEQoPX2NvbXB1dGVfY29uZmlnIogDChBXcml0ZVJlcG9ydFJlcGx5EkMKCXR4X3N0YXR1cxgBIAEoDjIwLmNhcGFiaWxpdGllcy5ibG9ja2NoYWluLnNvbGFuYS52MWFscGhhLlR4U3RhdHVzEngKInJlY2VpdmVyX2NvbnRyYWN0X2V4ZWN1dGlvbl9zdGF0dXMYAiABKA4yRy5jYXBhYmlsaXRpZXMuYmxvY2tjaGFpbi5zb2xhbmEudjFhbHBoYS5SZWNlaXZlckNvbnRyYWN0RXhlY3V0aW9uU3RhdHVzSACIAQESGQoMdHhfc2lnbmF0dXJlGAMgASgMSAGIAQESIAoPdHJhbnNhY3Rpb25fZmVlGAQgASgEQgIwAEgCiAEBEhoKDWVycm9yX21lc3NhZ2UYBSABKAlIA4gBAUIlCiNfcmVjZWl2ZXJfY29udHJhY3RfZXhlY3V0aW9uX3N0YXR1c0IPCg1fdHhfc2lnbmF0dXJlQhIKEF90cmFuc2FjdGlvbl9mZWVCEAoOX2Vycm9yX21lc3NhZ2UqTQoIVHhTdGF0dXMSEwoPVFhfU1RBVFVTX0ZBVEFMEAASFQoRVFhfU1RBVFVTX0FCT1JURUQQARIVChFUWF9TVEFUVVNfU1VDQ0VTUxACKoIBCh9SZWNlaXZlckNvbnRyYWN0RXhlY3V0aW9uU3RhdHVzEi4KKlJFQ0VJVkVSX0NPTlRSQUNUX0VYRUNVVElPTl9TVEFUVVNfU1VDQ0VTUxAAEi8KK1JFQ0VJVkVSX0NPTlRSQUNUX0VYRUNVVElPTl9TVEFUVVNfUkVWRVJURUQQATLxAQoGQ2xpZW50EoMBCgtXcml0ZVJlcG9ydBI6LmNhcGFiaWxpdGllcy5ibG9ja2NoYWluLnNvbGFuYS52MWFscGhhLldyaXRlUmVwb3J0UmVxdWVzdBo4LmNhcGFiaWxpdGllcy5ibG9ja2NoYWluLnNvbGFuYS52MWFscGhhLldyaXRlUmVwb3J0UmVwbHkaYYK1GF0IARIMc29sYW5hQDEuMC4wGksKDUNoYWluU2VsZWN0b3ISOhI4ChoKDXNvbGFuYS1kZXZuZXQQ3++Mp6n8sfbjAQoaCg5zb2xhbmEtbWFpbm5ldBDnk9+Mtp+u3QFC9AEKKmNvbS5jYXBhYmlsaXRpZXMuYmxvY2tjaGFpbi5zb2xhbmEudjFhbHBoYUILQ2xpZW50UHJvdG9QAaICA0NCU6oCJkNhcGFiaWxpdGllcy5CbG9ja2NoYWluLlNvbGFuYS5WMWFscGhhygImQ2FwYWJpbGl0aWVzXEJsb2NrY2hhaW5cU29sYW5hXFYxYWxwaGHiAjJDYXBhYmlsaXRpZXNcQmxvY2tjaGFpblxTb2xhbmFcVjFhbHBoYVxHUEJNZXRhZGF0YeoCKUNhcGFiaWxpdGllczo6QmxvY2tjaGFpbjo6U29sYW5hOjpWMWFscGhhYgZwcm90bzM", [file_sdk_v1alpha_sdk, file_tools_generator_v1alpha_cre_metadata]);
+var ComputeConfigSchema = /* @__PURE__ */ messageDesc(file_capabilities_blockchain_solana_v1alpha_client, 0);
+var AccountMetaSchema = /* @__PURE__ */ messageDesc(file_capabilities_blockchain_solana_v1alpha_client, 1);
+var WriteReportRequestSchema2 = /* @__PURE__ */ messageDesc(file_capabilities_blockchain_solana_v1alpha_client, 2);
+var WriteReportReplySchema2 = /* @__PURE__ */ messageDesc(file_capabilities_blockchain_solana_v1alpha_client, 3);
 var TxStatus2;
 (function(TxStatus3) {
   TxStatus3[TxStatus3["FATAL"] = 0] = "FATAL";
@@ -7897,6 +8230,90 @@ var ReceiverContractExecutionStatus2;
   ReceiverContractExecutionStatus3[ReceiverContractExecutionStatus3["SUCCESS"] = 0] = "SUCCESS";
   ReceiverContractExecutionStatus3[ReceiverContractExecutionStatus3["REVERTED"] = 1] = "REVERTED";
 })(ReceiverContractExecutionStatus2 || (ReceiverContractExecutionStatus2 = {}));
+function createWriteCreReportRequest2(input) {
+  return {
+    remainingAccounts: (input.remainingAccounts ?? []).map((v) => fromJson(AccountMetaSchema, v)),
+    receiver: hexToBytes3(input.receiver),
+    computeConfig: input.computeConfig !== undefined ? fromJson(ComputeConfigSchema, input.computeConfig) : undefined,
+    report: input.report,
+    $report: true
+  };
+}
+function x_generatedCodeOnly_unwrap_WriteCreReportRequest2(input) {
+  return create(WriteReportRequestSchema2, {
+    remainingAccounts: input.remainingAccounts,
+    receiver: input.receiver,
+    computeConfig: input.computeConfig,
+    report: input.report !== undefined ? input.report.x_generatedCodeOnly_unwrap() : undefined
+  });
+}
+
+class ClientCapability2 {
+  ChainSelector;
+  static CAPABILITY_ID = "solana@1.0.0";
+  static CAPABILITY_NAME = "solana";
+  static CAPABILITY_VERSION = "1.0.0";
+  static SUPPORTED_CHAIN_SELECTORS = {
+    "solana-devnet": 16423721717087811551n,
+    "solana-mainnet": 124615329519749607n
+  };
+  constructor(ChainSelector) {
+    this.ChainSelector = ChainSelector;
+  }
+  writeReport(runtime, input) {
+    let payload;
+    if (input.$report) {
+      payload = x_generatedCodeOnly_unwrap_WriteCreReportRequest2(input);
+    } else {
+      payload = x_generatedCodeOnly_unwrap_WriteCreReportRequest2(createWriteCreReportRequest2(input));
+    }
+    const capabilityId = `${ClientCapability2.CAPABILITY_NAME}:ChainSelector:${this.ChainSelector}@${ClientCapability2.CAPABILITY_VERSION}`;
+    const capabilityResponse = runtime.callCapability({
+      capabilityId,
+      method: "WriteReport",
+      payload,
+      inputSchema: WriteReportRequestSchema2,
+      outputSchema: WriteReportReplySchema2
+    });
+    return {
+      result: () => {
+        const result = capabilityResponse.result();
+        return result;
+      }
+    };
+  }
+}
+var file_capabilities_networking_confidentialhttp_v1alpha_client = /* @__PURE__ */ fileDesc("Cj1jYXBhYmlsaXRpZXMvbmV0d29ya2luZy9jb25maWRlbnRpYWxodHRwL3YxYWxwaGEvY2xpZW50LnByb3RvEjBjYXBhYmlsaXRpZXMubmV0d29ya2luZy5jb25maWRlbnRpYWxodHRwLnYxYWxwaGEiUAoQU2VjcmV0SWRlbnRpZmllchILCgNrZXkYASABKAkSEQoJbmFtZXNwYWNlGAIgASgJEhIKBW93bmVyGAMgASgJSACIAQFCCAoGX293bmVyIh4KDEhlYWRlclZhbHVlcxIOCgZ2YWx1ZXMYASADKAki1wQKC0hUVFBSZXF1ZXN0EgsKA3VybBgBIAEoCRIOCgZtZXRob2QYAiABKAkSFQoLYm9keV9zdHJpbmcYAyABKAlIABIUCgpib2R5X2J5dGVzGAggASgMSAASZgoNbXVsdGlfaGVhZGVycxgEIAMoCzJPLmNhcGFiaWxpdGllcy5uZXR3b3JraW5nLmNvbmZpZGVudGlhbGh0dHAudjFhbHBoYS5IVFRQUmVxdWVzdC5NdWx0aUhlYWRlcnNFbnRyeRJ3ChZ0ZW1wbGF0ZV9wdWJsaWNfdmFsdWVzGAUgAygLMlcuY2FwYWJpbGl0aWVzLm5ldHdvcmtpbmcuY29uZmlkZW50aWFsaHR0cC52MWFscGhhLkhUVFBSZXF1ZXN0LlRlbXBsYXRlUHVibGljVmFsdWVzRW50cnkSHwoXY3VzdG9tX3Jvb3RfY2FfY2VydF9wZW0YBiABKAwSKgoHdGltZW91dBgHIAEoCzIZLmdvb2dsZS5wcm90b2J1Zi5EdXJhdGlvbhIWCg5lbmNyeXB0X291dHB1dBgJIAEoCBpzChFNdWx0aUhlYWRlcnNFbnRyeRILCgNrZXkYASABKAkSTQoFdmFsdWUYAiABKAsyPi5jYXBhYmlsaXRpZXMubmV0d29ya2luZy5jb25maWRlbnRpYWxodHRwLnYxYWxwaGEuSGVhZGVyVmFsdWVzOgI4ARo7ChlUZW1wbGF0ZVB1YmxpY1ZhbHVlc0VudHJ5EgsKA2tleRgBIAEoCRINCgV2YWx1ZRgCIAEoCToCOAFCBgoEYm9keSKPAgoMSFRUUFJlc3BvbnNlEhMKC3N0YXR1c19jb2RlGAEgASgNEgwKBGJvZHkYAiABKAwSZwoNbXVsdGlfaGVhZGVycxgDIAMoCzJQLmNhcGFiaWxpdGllcy5uZXR3b3JraW5nLmNvbmZpZGVudGlhbGh0dHAudjFhbHBoYS5IVFRQUmVzcG9uc2UuTXVsdGlIZWFkZXJzRW50cnkacwoRTXVsdGlIZWFkZXJzRW50cnkSCwoDa2V5GAEgASgJEk0KBXZhbHVlGAIgASgLMj4uY2FwYWJpbGl0aWVzLm5ldHdvcmtpbmcuY29uZmlkZW50aWFsaHR0cC52MWFscGhhLkhlYWRlclZhbHVlczoCOAEiyAEKF0NvbmZpZGVudGlhbEhUVFBSZXF1ZXN0El0KEXZhdWx0X2Rvbl9zZWNyZXRzGAEgAygLMkIuY2FwYWJpbGl0aWVzLm5ldHdvcmtpbmcuY29uZmlkZW50aWFsaHR0cC52MWFscGhhLlNlY3JldElkZW50aWZpZXISTgoHcmVxdWVzdBgCIAEoCzI9LmNhcGFiaWxpdGllcy5uZXR3b3JraW5nLmNvbmZpZGVudGlhbGh0dHAudjFhbHBoYS5IVFRQUmVxdWVzdDLKAQoGQ2xpZW50EpgBCgtTZW5kUmVxdWVzdBJJLmNhcGFiaWxpdGllcy5uZXR3b3JraW5nLmNvbmZpZGVudGlhbGh0dHAudjFhbHBoYS5Db25maWRlbnRpYWxIVFRQUmVxdWVzdBo+LmNhcGFiaWxpdGllcy5uZXR3b3JraW5nLmNvbmZpZGVudGlhbGh0dHAudjFhbHBoYS5IVFRQUmVzcG9uc2UaJYK1GCEIARIdY29uZmlkZW50aWFsLWh0dHBAMS4wLjAtYWxwaGFCpgIKNGNvbS5jYXBhYmlsaXRpZXMubmV0d29ya2luZy5jb25maWRlbnRpYWxodHRwLnYxYWxwaGFCC0NsaWVudFByb3RvUAGiAgNDTkOqAjBDYXBhYmlsaXRpZXMuTmV0d29ya2luZy5Db25maWRlbnRpYWxodHRwLlYxYWxwaGHKAjBDYXBhYmlsaXRpZXNcTmV0d29ya2luZ1xDb25maWRlbnRpYWxodHRwXFYxYWxwaGHiAjxDYXBhYmlsaXRpZXNcTmV0d29ya2luZ1xDb25maWRlbnRpYWxodHRwXFYxYWxwaGFcR1BCTWV0YWRhdGHqAjNDYXBhYmlsaXRpZXM6Ok5ldHdvcmtpbmc6OkNvbmZpZGVudGlhbGh0dHA6OlYxYWxwaGFiBnByb3RvMw", [file_google_protobuf_duration, file_tools_generator_v1alpha_cre_metadata]);
+var HTTPResponseSchema = /* @__PURE__ */ messageDesc(file_capabilities_networking_confidentialhttp_v1alpha_client, 3);
+var ConfidentialHTTPRequestSchema = /* @__PURE__ */ messageDesc(file_capabilities_networking_confidentialhttp_v1alpha_client, 4);
+
+class ClientCapability3 {
+  static CAPABILITY_ID = "confidential-http@1.0.0-alpha";
+  static CAPABILITY_NAME = "confidential-http";
+  static CAPABILITY_VERSION = "1.0.0-alpha";
+  sendRequest(runtime, input) {
+    let payload;
+    if (input.$typeName) {
+      payload = input;
+    } else {
+      payload = fromJson(ConfidentialHTTPRequestSchema, input);
+    }
+    const capabilityId = ClientCapability3.CAPABILITY_ID;
+    const capabilityResponse = runtime.callCapability({
+      capabilityId,
+      method: "SendRequest",
+      payload,
+      inputSchema: ConfidentialHTTPRequestSchema,
+      outputSchema: HTTPResponseSchema
+    });
+    return {
+      result: () => {
+        const result = capabilityResponse.result();
+        return result;
+      }
+    };
+  }
+}
 var file_capabilities_networking_http_v1alpha_client = /* @__PURE__ */ fileDesc("CjFjYXBhYmlsaXRpZXMvbmV0d29ya2luZy9odHRwL3YxYWxwaGEvY2xpZW50LnByb3RvEiRjYXBhYmlsaXRpZXMubmV0d29ya2luZy5odHRwLnYxYWxwaGEiSgoNQ2FjaGVTZXR0aW5ncxINCgVzdG9yZRgBIAEoCBIqCgdtYXhfYWdlGAIgASgLMhkuZ29vZ2xlLnByb3RvYnVmLkR1cmF0aW9uIh4KDEhlYWRlclZhbHVlcxIOCgZ2YWx1ZXMYASADKAkiNAoITXRsc0F1dGgSEwoLcHJpdmF0ZV9rZXkYASABKAwSEwoLY2VydGlmaWNhdGUYAiABKAwiuwQKB1JlcXVlc3QSCwoDdXJsGAEgASgJEg4KBm1ldGhvZBgCIAEoCRJPCgdoZWFkZXJzGAMgAygLMjouY2FwYWJpbGl0aWVzLm5ldHdvcmtpbmcuaHR0cC52MWFscGhhLlJlcXVlc3QuSGVhZGVyc0VudHJ5QgIYARIMCgRib2R5GAQgASgMEioKB3RpbWVvdXQYBSABKAsyGS5nb29nbGUucHJvdG9idWYuRHVyYXRpb24SSwoOY2FjaGVfc2V0dGluZ3MYBiABKAsyMy5jYXBhYmlsaXRpZXMubmV0d29ya2luZy5odHRwLnYxYWxwaGEuQ2FjaGVTZXR0aW5ncxJWCg1tdWx0aV9oZWFkZXJzGAcgAygLMj8uY2FwYWJpbGl0aWVzLm5ldHdvcmtpbmcuaHR0cC52MWFscGhhLlJlcXVlc3QuTXVsdGlIZWFkZXJzRW50cnkSQQoEbXRscxgIIAEoCzIuLmNhcGFiaWxpdGllcy5uZXR3b3JraW5nLmh0dHAudjFhbHBoYS5NdGxzQXV0aEgAiAEBGi4KDEhlYWRlcnNFbnRyeRILCgNrZXkYASABKAkSDQoFdmFsdWUYAiABKAk6AjgBGmcKEU11bHRpSGVhZGVyc0VudHJ5EgsKA2tleRgBIAEoCRJBCgV2YWx1ZRgCIAEoCzIyLmNhcGFiaWxpdGllcy5uZXR3b3JraW5nLmh0dHAudjFhbHBoYS5IZWFkZXJWYWx1ZXM6AjgBQgcKBV9tdGxzIvECCghSZXNwb25zZRITCgtzdGF0dXNfY29kZRgBIAEoDRJQCgdoZWFkZXJzGAIgAygLMjsuY2FwYWJpbGl0aWVzLm5ldHdvcmtpbmcuaHR0cC52MWFscGhhLlJlc3BvbnNlLkhlYWRlcnNFbnRyeUICGAESDAoEYm9keRgDIAEoDBJXCg1tdWx0aV9oZWFkZXJzGAQgAygLMkAuY2FwYWJpbGl0aWVzLm5ldHdvcmtpbmcuaHR0cC52MWFscGhhLlJlc3BvbnNlLk11bHRpSGVhZGVyc0VudHJ5Gi4KDEhlYWRlcnNFbnRyeRILCgNrZXkYASABKAkSDQoFdmFsdWUYAiABKAk6AjgBGmcKEU11bHRpSGVhZGVyc0VudHJ5EgsKA2tleRgBIAEoCRJBCgV2YWx1ZRgCIAEoCzIyLmNhcGFiaWxpdGllcy5uZXR3b3JraW5nLmh0dHAudjFhbHBoYS5IZWFkZXJWYWx1ZXM6AjgBMpgBCgZDbGllbnQSbAoLU2VuZFJlcXVlc3QSLS5jYXBhYmlsaXRpZXMubmV0d29ya2luZy5odHRwLnYxYWxwaGEuUmVxdWVzdBouLmNhcGFiaWxpdGllcy5uZXR3b3JraW5nLmh0dHAudjFhbHBoYS5SZXNwb25zZRoggrUYHAgCEhhodHRwLWFjdGlvbnNAMS4wLjAtYWxwaGFC6gEKKGNvbS5jYXBhYmlsaXRpZXMubmV0d29ya2luZy5odHRwLnYxYWxwaGFCC0NsaWVudFByb3RvUAGiAgNDTkiqAiRDYXBhYmlsaXRpZXMuTmV0d29ya2luZy5IdHRwLlYxYWxwaGHKAiRDYXBhYmlsaXRpZXNcTmV0d29ya2luZ1xIdHRwXFYxYWxwaGHiAjBDYXBhYmlsaXRpZXNcTmV0d29ya2luZ1xIdHRwXFYxYWxwaGFcR1BCTWV0YWRhdGHqAidDYXBhYmlsaXRpZXM6Ok5ldHdvcmtpbmc6Okh0dHA6OlYxYWxwaGFiBnByb3RvMw", [file_google_protobuf_duration, file_tools_generator_v1alpha_cre_metadata]);
 var RequestSchema = /* @__PURE__ */ messageDesc(file_capabilities_networking_http_v1alpha_client, 3);
 var ResponseSchema = /* @__PURE__ */ messageDesc(file_capabilities_networking_http_v1alpha_client, 4);
@@ -7913,7 +8330,7 @@ class SendRequester {
   }
 }
 
-class ClientCapability {
+class ClientCapability4 {
   static CAPABILITY_ID = "http-actions@1.0.0-alpha";
   static CAPABILITY_NAME = "http-actions";
   static CAPABILITY_VERSION = "1.0.0-alpha";
@@ -7932,7 +8349,7 @@ class ClientCapability {
     } else {
       payload = fromJson(RequestSchema, input);
     }
-    const capabilityId = ClientCapability.CAPABILITY_ID;
+    const capabilityId = ClientCapability4.CAPABILITY_ID;
     const capabilityResponse = runtime.callCapability({
       capabilityId,
       method: "SendRequest",
@@ -7955,11 +8372,50 @@ class ClientCapability {
     return runtime.runInNodeMode(wrappedFn, consensusAggregation, unwrapOptions);
   }
 }
+var file_capabilities_networking_http_v1alpha_trigger = /* @__PURE__ */ fileDesc("CjJjYXBhYmlsaXRpZXMvbmV0d29ya2luZy9odHRwL3YxYWxwaGEvdHJpZ2dlci5wcm90bxIkY2FwYWJpbGl0aWVzLm5ldHdvcmtpbmcuaHR0cC52MWFscGhhIlYKBkNvbmZpZxJMCg9hdXRob3JpemVkX2tleXMYASADKAsyMy5jYXBhYmlsaXRpZXMubmV0d29ya2luZy5odHRwLnYxYWxwaGEuQXV0aG9yaXplZEtleSJaCgdQYXlsb2FkEg0KBWlucHV0GAEgASgMEkAKA2tleRgCIAEoCzIzLmNhcGFiaWxpdGllcy5uZXR3b3JraW5nLmh0dHAudjFhbHBoYS5BdXRob3JpemVkS2V5ImAKDUF1dGhvcml6ZWRLZXkSOwoEdHlwZRgBIAEoDjItLmNhcGFiaWxpdGllcy5uZXR3b3JraW5nLmh0dHAudjFhbHBoYS5LZXlUeXBlEhIKCnB1YmxpY19rZXkYAiABKAkqOwoHS2V5VHlwZRIYChRLRVlfVFlQRV9VTlNQRUNJRklFRBAAEhYKEktFWV9UWVBFX0VDRFNBX0VWTRABMpIBCgRIVFRQEmgKB1RyaWdnZXISLC5jYXBhYmlsaXRpZXMubmV0d29ya2luZy5odHRwLnYxYWxwaGEuQ29uZmlnGi0uY2FwYWJpbGl0aWVzLm5ldHdvcmtpbmcuaHR0cC52MWFscGhhLlBheWxvYWQwARoggrUYHAgBEhhodHRwLXRyaWdnZXJAMS4wLjAtYWxwaGFC6wEKKGNvbS5jYXBhYmlsaXRpZXMubmV0d29ya2luZy5odHRwLnYxYWxwaGFCDFRyaWdnZXJQcm90b1ABogIDQ05IqgIkQ2FwYWJpbGl0aWVzLk5ldHdvcmtpbmcuSHR0cC5WMWFscGhhygIkQ2FwYWJpbGl0aWVzXE5ldHdvcmtpbmdcSHR0cFxWMWFscGhh4gIwQ2FwYWJpbGl0aWVzXE5ldHdvcmtpbmdcSHR0cFxWMWFscGhhXEdQQk1ldGFkYXRh6gInQ2FwYWJpbGl0aWVzOjpOZXR3b3JraW5nOjpIdHRwOjpWMWFscGhhYgZwcm90bzM", [file_tools_generator_v1alpha_cre_metadata]);
+var ConfigSchema = /* @__PURE__ */ messageDesc(file_capabilities_networking_http_v1alpha_trigger, 0);
+var PayloadSchema = /* @__PURE__ */ messageDesc(file_capabilities_networking_http_v1alpha_trigger, 1);
 var KeyType;
 (function(KeyType2) {
   KeyType2[KeyType2["UNSPECIFIED"] = 0] = "UNSPECIFIED";
   KeyType2[KeyType2["ECDSA_EVM"] = 1] = "ECDSA_EVM";
 })(KeyType || (KeyType = {}));
+
+class HTTPCapability {
+  static CAPABILITY_ID = "http-trigger@1.0.0-alpha";
+  static CAPABILITY_NAME = "http-trigger";
+  static CAPABILITY_VERSION = "1.0.0-alpha";
+  trigger(config) {
+    const capabilityId = HTTPCapability.CAPABILITY_ID;
+    return new HTTPTrigger(config, capabilityId, "Trigger");
+  }
+}
+
+class HTTPTrigger {
+  _capabilityId;
+  _method;
+  config;
+  constructor(config, _capabilityId, _method) {
+    this._capabilityId = _capabilityId;
+    this._method = _method;
+    this.config = config.$typeName ? config : fromJson(ConfigSchema, config);
+  }
+  capabilityId() {
+    return this._capabilityId;
+  }
+  method() {
+    return this._method;
+  }
+  outputSchema() {
+    return PayloadSchema;
+  }
+  configAsAny() {
+    return anyPack(ConfigSchema, this.config);
+  }
+  adapt(rawOutput) {
+    return rawOutput;
+  }
+}
 var file_capabilities_scheduler_cron_v1_trigger = /* @__PURE__ */ fileDesc("CixjYXBhYmlsaXRpZXMvc2NoZWR1bGVyL2Nyb24vdjEvdHJpZ2dlci5wcm90bxIeY2FwYWJpbGl0aWVzLnNjaGVkdWxlci5jcm9uLnYxIhoKBkNvbmZpZxIQCghzY2hlZHVsZRgBIAEoCSJHCgdQYXlsb2FkEjwKGHNjaGVkdWxlZF9leGVjdXRpb25fdGltZRgBIAEoCzIaLmdvb2dsZS5wcm90b2J1Zi5UaW1lc3RhbXAiNQoNTGVnYWN5UGF5bG9hZBIgChhzY2hlZHVsZWRfZXhlY3V0aW9uX3RpbWUYASABKAk6AhgBMvUBCgRDcm9uElwKB1RyaWdnZXISJi5jYXBhYmlsaXRpZXMuc2NoZWR1bGVyLmNyb24udjEuQ29uZmlnGicuY2FwYWJpbGl0aWVzLnNjaGVkdWxlci5jcm9uLnYxLlBheWxvYWQwARJzCg1MZWdhY3lUcmlnZ2VyEiYuY2FwYWJpbGl0aWVzLnNjaGVkdWxlci5jcm9uLnYxLkNvbmZpZxotLmNhcGFiaWxpdGllcy5zY2hlZHVsZXIuY3Jvbi52MS5MZWdhY3lQYXlsb2FkIgmIAgGKtRgCCAEwARoagrUYFggBEhJjcm9uLXRyaWdnZXJAMS4wLjBCzQEKImNvbS5jYXBhYmlsaXRpZXMuc2NoZWR1bGVyLmNyb24udjFCDFRyaWdnZXJQcm90b1ABogIDQ1NDqgIeQ2FwYWJpbGl0aWVzLlNjaGVkdWxlci5Dcm9uLlYxygIeQ2FwYWJpbGl0aWVzXFNjaGVkdWxlclxDcm9uXFYx4gIqQ2FwYWJpbGl0aWVzXFNjaGVkdWxlclxDcm9uXFYxXEdQQk1ldGFkYXRh6gIhQ2FwYWJpbGl0aWVzOjpTY2hlZHVsZXI6OkNyb246OlYxYgZwcm90bzM", [file_google_protobuf_timestamp, file_tools_generator_v1alpha_cre_metadata]);
 var ConfigSchema2 = /* @__PURE__ */ messageDesc(file_capabilities_scheduler_cron_v1_trigger, 0);
 var PayloadSchema2 = /* @__PURE__ */ messageDesc(file_capabilities_scheduler_cron_v1_trigger, 1);
@@ -9664,6 +10120,17 @@ var handler = (trigger, fn) => ({
   fn
 });
 prepareRuntime();
+var cre = {
+  capabilities: {
+    CronCapability,
+    HTTPCapability,
+    ConfidentialHTTPClient: ClientCapability3,
+    HTTPClient: ClientCapability4,
+    EVMClient: ClientCapability,
+    SolanaClient: ClientCapability2
+  },
+  handler
+};
 function assertSafeIntegerNumber(value, label) {
   if (!Number.isFinite(value) || !Number.isInteger(value)) {
     throw new Error(`${label} requires an integer number, received ${value}`);
@@ -9680,6 +10147,11 @@ var LATEST_BLOCK_NUMBER = {
   absVal: Buffer.from([2]).toString("base64"),
   sign: "-1"
 };
+var decodeJson = (input) => {
+  const decoder = new TextDecoder("utf-8");
+  const textBody = decoder.decode(input);
+  return JSON.parse(textBody);
+};
 function sendReport(runtime, report, fn) {
   const rawReport = report.x_generatedCodeOnly_unwrap();
   const request = fn(rawReport);
@@ -9690,7 +10162,7 @@ function sendRequesterSendReport(report, fn) {
   const request = fn(rawReport);
   return this.sendRequest(request);
 }
-ClientCapability.prototype.sendReport = sendReport;
+ClientCapability4.prototype.sendReport = sendReport;
 SendRequester.prototype.sendReport = sendRequesterSendReport;
 var network = {
   chainId: "1",
@@ -18782,14 +19254,27 @@ var sendErrorResponse = (error2) => {
   }
   hostBindings.sendResponse(payload);
 };
-var onCronTrigger = (runtime2) => {
-  runtime2.log("Hello world! Workflow triggered.");
-  return "Hello world!";
-};
+function onHttpTrigger(runtime2, payload) {
+  runtime2.log("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━");
+  runtime2.log("CRE Workflow: HTTP Trigger - Create Market");
+  runtime2.log("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━");
+  if (!payload.input || payload.input.length === 0) {
+    runtime2.log("[ERROR] Empty request payload");
+    return "Error: Empty request";
+  }
+  const inputData = decodeJson(payload.input);
+  runtime2.log(`[Step 1] Received market question: "${inputData.question}"`);
+  if (!inputData.question || inputData.question.trim().length === 0) {
+    runtime2.log("[ERROR] Question is required");
+    return "Error: Question is required";
+  }
+  return "Success";
+}
 var initWorkflow = (config) => {
-  const cron = new CronCapability;
+  const httpCapability = new cre.capabilities.HTTPCapability;
+  const httpTrigger = httpCapability.trigger({});
   return [
-    handler(cron.trigger({ schedule: config.schedule }), onCronTrigger)
+    cre.handler(httpTrigger, onHttpTrigger)
   ];
 };
 async function main() {
@@ -18798,7 +19283,5 @@ async function main() {
 }
 main().catch(sendErrorResponse);
 export {
-  onCronTrigger,
-  main,
-  initWorkflow
+  main
 };
